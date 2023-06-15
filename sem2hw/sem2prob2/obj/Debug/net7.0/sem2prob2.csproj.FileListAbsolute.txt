@@ -1,0 +1,15 @@
+D:\geekbrains\знакомство c#\2sem2\sem2hw\sem2prob2\bin\Debug\net7.0\sem2prob2.exe
+D:\geekbrains\знакомство c#\2sem2\sem2hw\sem2prob2\bin\Debug\net7.0\sem2prob2.deps.json
+D:\geekbrains\знакомство c#\2sem2\sem2hw\sem2prob2\bin\Debug\net7.0\sem2prob2.runtimeconfig.json
+D:\geekbrains\знакомство c#\2sem2\sem2hw\sem2prob2\bin\Debug\net7.0\sem2prob2.dll
+D:\geekbrains\знакомство c#\2sem2\sem2hw\sem2prob2\bin\Debug\net7.0\sem2prob2.pdb
+D:\geekbrains\знакомство c#\2sem2\sem2hw\sem2prob2\obj\Debug\net7.0\sem2prob2.csproj.AssemblyReference.cache
+D:\geekbrains\знакомство c#\2sem2\sem2hw\sem2prob2\obj\Debug\net7.0\sem2prob2.GeneratedMSBuildEditorConfig.editorconfig
+D:\geekbrains\знакомство c#\2sem2\sem2hw\sem2prob2\obj\Debug\net7.0\sem2prob2.AssemblyInfoInputs.cache
+D:\geekbrains\знакомство c#\2sem2\sem2hw\sem2prob2\obj\Debug\net7.0\sem2prob2.AssemblyInfo.cs
+D:\geekbrains\знакомство c#\2sem2\sem2hw\sem2prob2\obj\Debug\net7.0\sem2prob2.csproj.CoreCompileInputs.cache
+D:\geekbrains\знакомство c#\2sem2\sem2hw\sem2prob2\obj\Debug\net7.0\sem2prob2.dll
+D:\geekbrains\знакомство c#\2sem2\sem2hw\sem2prob2\obj\Debug\net7.0\refint\sem2prob2.dll
+D:\geekbrains\знакомство c#\2sem2\sem2hw\sem2prob2\obj\Debug\net7.0\sem2prob2.pdb
+D:\geekbrains\знакомство c#\2sem2\sem2hw\sem2prob2\obj\Debug\net7.0\sem2prob2.genruntimeconfig.cache
+D:\geekbrains\знакомство c#\2sem2\sem2hw\sem2prob2\obj\Debug\net7.0\ref\sem2prob2.dll
